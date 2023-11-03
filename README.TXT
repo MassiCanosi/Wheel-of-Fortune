@@ -1,8 +1,8 @@
-## Wheel of Fortune Game
+**Wheel of Fortune Game**
 
 Welcome to the Wheel of Fortune game project! This project will guide you through the process of implementing a simplified version of the classic game show, Wheel of Fortune. In this game, players compete to guess a hidden phrase within a specific category, using a spinning wheel to determine their actions and winnings. Let's get started with the rules and instructions.
 
-## Game Rules
+**Game Rules**
 Players: The game can have both human and computer players. You can specify the number of human players (num_human) and computer players (num_computer).
 
 Player Money: At the start of the game, every player has $0 in their account.
@@ -15,7 +15,7 @@ Category: Artist & Song
 Phrase: _______ ______' _ ____ ______ ____ ___
 Players need to guess the letters and words to reveal the phrase correctly. The case (capitalization) does not matter.
 
-## Gameplay:
+**Gameplay**
 
 Players take turns spinning the wheel to determine a prize amount and perform an action.
 
@@ -38,7 +38,8 @@ If the wheel lands on "bankrupt," the player loses their turn and all of their m
 
 Winning: The game continues until the entire phrase is revealed, or one player guesses the complete phrase correctly.
 
-## How to Play
+**How to Play**
+
 Clone or download the repository to your local machine.
 
 Run the game on your preferred Python environment.
@@ -49,6 +50,6 @@ Take turns spinning the wheel and making guesses or actions based on the rules m
 
 Continue playing until one player reveals the complete phrase or the entire phrase is uncovered.
 
-## Have Fun!
+**Have Fun!**
 
 Enjoy playing this simplified version of Wheel of Fortune. Feel free to modify and extend the game to add more features and complexity. If you encounter any issues or have suggestions for improvement, please don't hesitate to provide feedback or contribute to the project. Have a great time playing!
